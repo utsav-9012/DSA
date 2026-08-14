@@ -15,5 +15,3 @@ int main()
 		cout<<endl;
 	}
 }
-
-
